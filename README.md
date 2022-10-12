@@ -1,4 +1,5 @@
 # website_Calculator
 
 ### this calcolator can do basic operation in the math 
-![](addtion.jpg)  ![](resulte.jpg)  
+![](addtion.jpg)
+![](resulte.jpg)  
