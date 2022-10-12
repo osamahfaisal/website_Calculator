@@ -1,3 +1,3 @@
 # website_Calculator
 
-![](addition.jpg)
+![](addtion.jpg)
